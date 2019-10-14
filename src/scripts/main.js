@@ -1,6 +1,6 @@
 // Attempt to make a function
 function addExcitement() {
-    let sentence =["1", "2", "3"];
+
     let string ="";
     sentence.forEach(function(addExcitement){
         string += element;
